@@ -1,0 +1,23 @@
+{
+    "stories": "Stories",
+    "all.status": "All status",
+    "stories.table.title": "Title",
+    "stories.table.pages": "Pages",
+    "stories.table.lastModified": "Last Modified",
+    "stories.table.status": "Status",
+    "stories.table.liveFrom": "Live From",
+    "stories.table.ends": "Ends",
+    "stories.table.newStory": "New Story",
+    "stories.table.search.placeholder": "Search",
+    "stories.table.showing": "Showing",
+    "stories.table.of": "of",
+    "stories.table.page": "Page",
+    "stories.table.rows": "Rows",
+    "stories.table.empty.noMatch": "No stories match your filters. Try adjusting your search or filter criteria.",
+    "stories.table.empty.noStories": "No stories found. Create your first story to get started.",
+    "stories.status.all": "All Statuses",
+    "stories.status.draft": "Draft",
+    "stories.status.scheduled": "Scheduled",
+    "stories.status.live": "Live",
+    "stories.status.past": "Past"
+}
