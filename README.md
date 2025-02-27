@@ -10,6 +10,6 @@ Features
 Run app with
 ``` Yarn start ```
 
-<img width="170" alt="short-clip" src="/wireframes/web.gif">
-<img width="170" alt="short-clip" src="/wireframes/mobile.png">
+<img width="900" alt="short-clip" src="/wireframes/web.png">
+<img width="300" alt="short-clip" src="/wireframes/mobile.png">
 <br />
