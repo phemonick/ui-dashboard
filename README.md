@@ -7,10 +7,9 @@ Features
 4. Delete story
 
 
-React app
-Run with
-1. Yarn start 
+Run app with
+``` Yarn start ```
 
-<img width="170" alt="short-clip" src="/wireframes/mobile.png">
 <img width="170" alt="short-clip" src="/wireframes/web.gif">
+<img width="170" alt="short-clip" src="/wireframes/mobile.png">
 <br />
